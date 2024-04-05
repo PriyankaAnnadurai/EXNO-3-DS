@@ -1,4 +1,4 @@
-![319878540-d5c66705-7e21-4a6b-8bc7-a9e1ca23ae85](https://github.com/PriyankaAnnadurai/EXNO-3-DS/assets/118351569/254f0291-364a-4944-a7a2-7eebb36de3fa)![image](https://github.com/PriyankaAnnadurai/EXNO-3-DS/assets/118351569/267dc8b8-d35c-44e9-876d-8f6e83917257)# EX NO:3-Feature Encoding and Transformation
+# EX NO:3-Feature Encoding and Transformation
 
 ## AIM:
 To read the given data and perform Feature Encoding and Transformation process and save the data to a file.
