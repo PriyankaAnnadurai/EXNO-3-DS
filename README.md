@@ -1,4 +1,4 @@
-![image](https://github.com/PriyankaAnnadurai/EXNO-3-DS/assets/118351569/267dc8b8-d35c-44e9-876d-8f6e83917257)# EX NO:3-Feature Encoding and Transformation
+![319878540-d5c66705-7e21-4a6b-8bc7-a9e1ca23ae85](https://github.com/PriyankaAnnadurai/EXNO-3-DS/assets/118351569/254f0291-364a-4944-a7a2-7eebb36de3fa)![image](https://github.com/PriyankaAnnadurai/EXNO-3-DS/assets/118351569/267dc8b8-d35c-44e9-876d-8f6e83917257)# EX NO:3-Feature Encoding and Transformation
 
 ## AIM:
 To read the given data and perform Feature Encoding and Transformation process and save the data to a file.
@@ -248,7 +248,7 @@ sm.qqplot(df["Highly Negative Skew"],line='45')
 plt.show()
 ```
 
-![Uploading image.png…]()
+![319878460-6f7a4eaa-1c54-4409-8b57-8b407d5842f7](https://github.com/PriyankaAnnadurai/EXNO-3-DS/assets/118351569/5d511ce4-1999-414c-84a6-d3989e63aa6e)
 
 
 ```py
@@ -263,14 +263,15 @@ dt["Age_1"]=qt.fit_transform(dt[["Age"]])
 sm.qqplot(dt['Age'],line='45') 
 plt.show()
 ```
-![Uploading image.png…]()
+![319878630-e2ff6572-cb52-434f-8d9a-980843e1a1b9](https://github.com/PriyankaAnnadurai/EXNO-3-DS/assets/118351569/33e7bf1e-09f0-41cf-9733-bc39e2a82947)
 
 ```py
 sm.qqplot(df["Highly Negative Skew_1"],line='45')
 plt.show()
 ```
 
-![Uploading image.png…]()
+![319878540-d5c66705-7e21-4a6b-8bc7-a9e1ca23ae85](https://github.com/PriyankaAnnadurai/EXNO-3-DS/assets/118351569/f0d0c362-034d-4938-8b05-9dcddd9c94b6)
+
 
 
 
